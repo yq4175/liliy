@@ -1,0 +1,1 @@
+shiro的配置shiroconfig配置Bean   :  AccoutRealm  ShiroDialect  权限设置 等   自定义AuthorizingRealm  权限就角色的认证和授权配置
